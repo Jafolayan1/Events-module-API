@@ -8,10 +8,8 @@ namespace Entities
     {
         public RepositoryContext(DbContextOptions options) : base(options)
         {
-
         }
 
         public DbSet<Event> Events { get; set; }
-
     }
 }

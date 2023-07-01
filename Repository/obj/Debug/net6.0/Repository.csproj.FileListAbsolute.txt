@@ -1,3 +1,8 @@
+C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
 C:\Users\Jay\source\repos\Events module API\Repository\bin\Debug\net6.0\Repository.deps.json
 C:\Users\Jay\source\repos\Events module API\Repository\bin\Debug\net6.0\Repository.dll
 C:\Users\Jay\source\repos\Events module API\Repository\bin\Debug\net6.0\Repository.pdb
@@ -5,11 +10,6 @@ C:\Users\Jay\source\repos\Events module API\Repository\bin\Debug\net6.0\Contract
 C:\Users\Jay\source\repos\Events module API\Repository\bin\Debug\net6.0\Entities.dll
 C:\Users\Jay\source\repos\Events module API\Repository\bin\Debug\net6.0\Contracts.pdb
 C:\Users\Jay\source\repos\Events module API\Repository\bin\Debug\net6.0\Entities.pdb
-C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
-C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
-C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
-C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
 C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
 C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\Repository.dll
 C:\Users\Jay\source\repos\Events module API\Repository\obj\Debug\net6.0\refint\Repository.dll

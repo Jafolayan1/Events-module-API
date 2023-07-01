@@ -6,8 +6,4 @@
     <Nullable>Annotations</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="DataTransferObjects\" />
-  </ItemGroup>
-
 </Project>

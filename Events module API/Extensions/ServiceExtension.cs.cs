@@ -23,11 +23,6 @@ namespace Events_module_API.Extensions
             });
         }
 
-        public static void ConfigureIISIntegration(this IServiceCollection services)
-        {
-            services.Configure<IISOptions>(option => { });
-        }
-
         public static void ConfigureLoggerService(this IServiceCollection services)
         {
             services.AddSingleton<ILoggerManager, LoggerManager>();

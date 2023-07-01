@@ -1,43 +1,59 @@
-﻿namespace Entities.Models
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Entities.Models
 {
     public class Event
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string UserName { get; set; }
-        public string Email { get; set; }
-        public int AddressId { get; set; }
+        [Column("EventId")]
+        public Guid Id { get; set; }
 
-        public Address Address { get; set; }
-        public string Phone { get; set; }
-        public string Website { get; set; }
+        [Required(ErrorMessage = "EventTitle is required")]
+        public string EventTitle { get; set; }
 
-        public int CompanyId { get; set; }
-        public Company Company { get; set; }
+        [Required(ErrorMessage = "StartDate is required")]
+        public DateTimeOffset StartDate { get; set; }
+
+        [Required(ErrorMessage = "EndDate is required")]
+        public DateTimeOffset EndDate { get; set; }
+
+        [Required(ErrorMessage = "TimeZoneInfo is required")]
+        public TimeZoneInfo TimeZone { get; set; }
+
+        [Required(ErrorMessage = "EventDescription is required")]
+        public string EventDescription { get; set; }
     }
 
-    public class Address
-    {
-        public string Street { get; set; }
-        public string Suit { get; set; }
-        public string City { get; set; }
-        public string ZipCode { get; set; }
-        public int GeoId { get; set; }
+    //public class Address
+    //{
+    //    [Column("AddressId")]
 
-        public Geo Geo { get; set; }
+    //    public Guid Id { get; set; }
+    //    public string Street { get; set; }
+    //    public string Suit { get; set; }
+    //    public string City { get; set; }
+    //    public string ZipCode { get; set; }
+    //    public int GeoId { get; set; }
+    //    public Geo Geo { get; set; }
 
-    }
+    //}
 
-    public class Geo
-    {
-        public double lat { get; set; }
-        public double lng { get; set; }
-    }
+    //public class Geo
+    //{
+    //    [Column("GeoId")]
 
-    public class Company
-    {
-        public string Name { get; set; }
-        public string CatchPhrase { get; set; }
-        public string Bs { get; set; }
-    }
+    //    public Guid Id { get; set; }
+    //    public double lat { get; set; }
+    //    public double lng { get; set; }
+    //}
+
+    //public class Company
+    //{
+    //    [Column("CompanyId")]
+
+    //    public Guid Id { get; set; }
+    //    public string Name { get; set; }
+    //    public string CatchPhrase { get; set; }
+    //    public string Bs { get; set; }
+    //}
 }

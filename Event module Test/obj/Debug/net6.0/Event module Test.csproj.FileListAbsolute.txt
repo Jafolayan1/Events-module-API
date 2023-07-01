@@ -1,0 +1,5 @@
+C:\Users\Jay\source\repos\Events module API\Event module Test\obj\Debug\net6.0\Event module Test.csproj.AssemblyReference.cache
+C:\Users\Jay\source\repos\Events module API\Event module Test\obj\Debug\net6.0\Event module Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay\source\repos\Events module API\Event module Test\obj\Debug\net6.0\Event module Test.AssemblyInfoInputs.cache
+C:\Users\Jay\source\repos\Events module API\Event module Test\obj\Debug\net6.0\Event module Test.AssemblyInfo.cs
+C:\Users\Jay\source\repos\Events module API\Event module Test\obj\Debug\net6.0\Event module Test.csproj.CoreCompileInputs.cache

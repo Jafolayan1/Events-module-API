@@ -5,13 +5,15 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events module API", "Events module API\Events module API.csproj", "{1B7F6DD4-83F9-424C-83CB-B1F652BCD114}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{05BAE191-3E66-4E7D-B5F9-83DDE4DF7DF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{05BAE191-3E66-4E7D-B5F9-83DDE4DF7DF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerService", "LoggerService\LoggerService.csproj", "{D1E9F646-4CED-4E49-A4F4-257361818AE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggerService", "LoggerService\LoggerService.csproj", "{D1E9F646-4CED-4E49-A4F4-257361818AE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{670312F5-D0E8-420F-B1A0-7582AA0F45FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{670312F5-D0E8-420F-B1A0-7582AA0F45FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{F30F565A-8949-41AF-8FAC-552C7FCB1227}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contracts", "Contracts\Contracts.csproj", "{F30F565A-8949-41AF-8FAC-552C7FCB1227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event module Test", "Event module Test\Event module Test.csproj", "{F3BD1ABB-9256-4D46-84EA-6CB0F7020019}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{F30F565A-8949-41AF-8FAC-552C7FCB1227}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F30F565A-8949-41AF-8FAC-552C7FCB1227}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F30F565A-8949-41AF-8FAC-552C7FCB1227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BD1ABB-9256-4D46-84EA-6CB0F7020019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BD1ABB-9256-4D46-84EA-6CB0F7020019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BD1ABB-9256-4D46-84EA-6CB0F7020019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BD1ABB-9256-4D46-84EA-6CB0F7020019}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

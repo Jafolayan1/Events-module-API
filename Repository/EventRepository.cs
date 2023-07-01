@@ -11,28 +11,29 @@ namespace Repository
         {
         }
 
-        public void CreateAccount(Event @object)
+        public void CreateEvent(Event @object)
         {
             Create(@object);
         }
 
-        public void DeleteAccount(Event @object)
+        public void DeleteEvent(Event @object)
         {
             Delete(@object);
         }
 
-        public IEnumerable<Event> GetAllEvent()
+        public PagedList<Event> GetAllEvent(EventParameters ownerParameters)
         {
-            return FindAll().ToList();
+            return PagedList<Event>.ToPagedList(FindAll().OrderBy(et => et.EventTitle),
+                ownerParameters.PageNumber,
+                ownerParameters.PageSize);
         }
 
         public Event GetEventById(Guid eventId)
         {
             return FindByCondition(e => e.Id.Equals(eventId)).FirstOrDefault();
-
         }
 
-        public void UpdateAccount(Event @object)
+        public void UpdateEvent(Event @object)
         {
             Update(@object);
         }
