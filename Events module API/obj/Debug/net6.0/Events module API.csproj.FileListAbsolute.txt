@@ -1,0 +1,51 @@
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\nlog.config
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\appsettings.json
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Events module API.exe
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Events module API.deps.json
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Events module API.runtimeconfig.json
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Events module API.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Events module API.pdb
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\NLog.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Contracts.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Entities.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\LoggerService.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Repository.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Entities.pdb
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\LoggerService.pdb
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Repository.pdb
+C:\Users\Jay\source\repos\Events module API\Events module API\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\Events module API.csproj.AssemblyReference.cache
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\Events module API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\Events module API.AssemblyInfoInputs.cache
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\Events module API.AssemblyInfo.cs
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\Events module API.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\Events module API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\Events module API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\staticwebassets\msbuild.Events module API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\staticwebassets\msbuild.build.Events module API.props
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Events module API.props
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Events module API.props
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\scopedcss\bundle\Events module API.styles.css
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\Events module API.csproj.CopyComplete
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\Events module API.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\refint\Events module API.dll
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\Events module API.pdb
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\Events module API.genruntimeconfig.cache
+C:\Users\Jay\source\repos\Events module API\Events module API\obj\Debug\net6.0\ref\Events module API.dll

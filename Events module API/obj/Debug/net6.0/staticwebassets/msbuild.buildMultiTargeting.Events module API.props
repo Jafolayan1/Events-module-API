@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Events module API.props" />
+</Project>
